@@ -16,25 +16,26 @@
 
 ## 🗂️ Project Structure
 
-Emotion-Detector/
+```Emotion-Detector/
 │
 ├── notebooks/
-│ ├── data_creation.ipynb # Synthetic data generation
-│ ├── train_model.ipynb # Fine-tuning and evaluation
-│ └── deploy_gradio_app.ipynb # (Coming soon) Gradio demo setup
+│ ├── dataset_creation.ipynb # Synthetic data generation
+│ ├── model_training.ipynb # Fine-tuning and evaluation
+│ └── analyze_model.ipynb
 │
-├── scripts/
-│ ├── data_creation.py # Script for dataset creation
-│ ├── train_model.py # Script for model training
-│ ├── gradio_app.py # Gradio app to launch UI
+├── src/
+| ├── data/
+│   ├── create_dataset.py # Script for dataset creation
+│ ├── models/ 
+│   ├── train_model.py # Script for model training
 │
 ├── data/
-│ ├── synthetic_dataset.json # Final dataset
+│ ├── raw.json # Final dataset
 │
 ├── requirements.txt # Dependencies
 ├── README.md # This file
 └── .gitignore # Files to ignore
-
+```
 
 ---
 
