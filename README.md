@@ -64,8 +64,8 @@
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Emotion-Detector.git
-cd Emotion-Detector
+git clone https://github.com/AliAfkhamii/emotion-detector-hf.git
+cd emotion-detector-hf
 ```
 2. **Create and activate a virtual environment**:
 
@@ -80,21 +80,6 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## 🚀 How to Run
-**Train the Model**
-```bash
-python scripts/train_model.py
-```
-Make sure data/synthetic_dataset.json exists
-
-**Launch Gradio App**
-```bash
-python scripts/gradio_app.py
-```
-
-* After fine-tuning, this script launches an interactive UI to predict emotions from custom text inputs.
-
-* Also being deployed to Hugging Face Spaces (coming soon).
 
 ## 🧹 Professional Practices Followed
 
