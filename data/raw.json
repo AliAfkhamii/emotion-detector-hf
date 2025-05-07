@@ -1,0 +1,2254 @@
+[
+    {
+        "text": "I've had it up to here with these constant delays! This is the third time this week our meeting has been pushed back.",
+        "emotion": "anger"
+    },
+    {
+        "text": "I can't believe you dented my car! I just had it repainted last week.",
+        "emotion": "anger"
+    },
+    {
+        "text": "This is unacceptable! I've been on hold for over an hour, and no one has addressed my complaint.",
+        "emotion": "anger"
+    },
+    {
+        "text": "How dare you speak to me like that in front of the entire team? I expect an apology immediately.",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm absolutely furious! They promised the package would arrive today, and now they're saying it's lost.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You've gone too far this time. I won't tolerate this kind of disrespect in my own home.",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm sick and tired of your excuses! Either get the job done or find someone else who can.",
+        "emotion": "anger"
+    },
+    {
+        "text": "This is outrageous! I've been waiting for my refund for over a month now.",
+        "emotion": "anger"
+    },
+    {
+        "text": "I can't believe you would betray my trust like this. I thought we were friends.",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm livid! They canceled my flight at the last minute and didn't even offer an alternative.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You've crossed the line. I won't stand for this kind of behavior any longer.",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm fed up with your constant criticism. Nothing I do is ever good enough for you.",
+        "emotion": "anger"
+    },
+    {
+        "text": "This is the last straw! I've had enough of your lies and deceit.",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm beyond angry. They promised a full service and delivered nothing but disappointment.",
+        "emotion": "anger"
+    },
+    {
+        "text": "How could you forget something so important? This was a once-in-a-lifetime opportunity, and you blew it.",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm fuming! They charged me extra for a service I never even requested.",
+        "emotion": "anger"
+    },
+    {
+        "text": "I've reached my limit. I can't take another day of this chaotic work environment.",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm outraged! They published my personal information without my consent.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You've really done it now. I won't forget this anytime soon.",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm at my wits' end. This project has been nothing but a nightmare from start to finish.",
+        "emotion": "anger"
+    },
+    {
+        "text": "I can't believe you forgot about our meeting again! This is unacceptable.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You promised you'd be here an hour ago. Where are you?",
+        "emotion": "anger"
+    },
+    {
+        "text": "This is the third time this week you've been late. I'm tired of your excuses.",
+        "emotion": "anger"
+    },
+    {
+        "text": "I specifically asked for no onions, and here they are, ruining my meal.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You were supposed to clean the house, not make it worse!",
+        "emotion": "anger"
+    },
+    {
+        "text": "I've had it with your constant interruptions. Let me finish my work!",
+        "emotion": "anger"
+    },
+    {
+        "text": "This is ridiculous! I've been on hold for over 30 minutes.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You were supposed to watch the kids, not leave them alone!",
+        "emotion": "anger"
+    },
+    {
+        "text": "I trusted you with my car, and now it's damaged. How could you be so careless?",
+        "emotion": "anger"
+    },
+    {
+        "text": "Your constant lies are making it impossible for me to trust you.",
+        "emotion": "anger"
+    },
+    {
+        "text": "I can't believe you lost the files again. This project is a mess because of you.",
+        "emotion": "anger"
+    },
+    {
+        "text": "Why did you ignore my messages all day? I needed your help urgently!",
+        "emotion": "anger"
+    },
+    {
+        "text": "This is the third time the package has been delayed. I want a refund!",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm furious that you didn't consult me before making that decision.",
+        "emotion": "anger"
+    },
+    {
+        "text": "Your lazy attitude is affecting the entire team. Either step up or step out.",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm sick and tired of your disrespectful behavior. It stops now.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You were supposed to finish the report by today. This is unacceptable.",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm fed up with your constant complaining. Either do something about it or stop talking.",
+        "emotion": "anger"
+    },
+    {
+        "text": "This is the last straw! I'm not putting up with your disrespect anymore.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You promised to be here and you're not. I'm done with your empty promises.",
+        "emotion": "anger"
+    },
+    {
+        "text": "I can't believe you broke my favorite vase. You never take care of anything!",
+        "emotion": "anger"
+    },
+    {
+        "text": "Your constant negativity is bringing everyone down. Stop it!",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm tired of your excuses. Either fix the problem or get out of my way.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You were supposed to pick me up an hour ago. Where have you been?",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm furious that you didn't tell me about the meeting until the last minute.",
+        "emotion": "anger"
+    },
+    {
+        "text": "Your carelessness has cost us a major client. How could you let this happen?",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm sick of your constant criticism. It's not helpful, it's just annoying.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You were supposed to water the plants, not let them die!",
+        "emotion": "anger"
+    },
+    {
+        "text": "I've had enough of your rude comments. Keep them to yourself.",
+        "emotion": "anger"
+    },
+    {
+        "text": "This is unacceptable! I expected better from you.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You were supposed to fix the leak, not make it worse!",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm tired of your constant excuses. Just get the job done.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You promised to help me move and you didn't show up. I had to do it all alone.",
+        "emotion": "anger"
+    },
+    {
+        "text": "Your reckless driving is putting everyone in danger. Slow down!",
+        "emotion": "anger"
+    },
+    {
+        "text": "I can't believe you forgot my birthday. You never remember anything important!",
+        "emotion": "anger"
+    },
+    {
+        "text": "Your constant interruptions are making it impossible for me to concentrate.",
+        "emotion": "anger"
+    },
+    {
+        "text": "This is the last time I'm covering for you. You need to take responsibility for your actions.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You were supposed to book the tickets, not wait until the last minute!",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm furious that you didn't tell me about the changes until it was too late.",
+        "emotion": "anger"
+    },
+    {
+        "text": "Your lack of effort is disappointing. I expected more from you.",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm tired of your constant complaining. Either do something about it or stop talking.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You were supposed to clean the kitchen, not leave it a mess!",
+        "emotion": "anger"
+    },
+    {
+        "text": "I can't believe you forgot to pick up the kids from school. They were waiting for you!",
+        "emotion": "anger"
+    },
+    {
+        "text": "Your constant interruptions are making it impossible for me to work.",
+        "emotion": "anger"
+    },
+    {
+        "text": "This is unacceptable! I expected the report to be completed by today.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You were supposed to fix the computer, not make it worse!",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm sick and tired of your lies. Just tell the truth for once.",
+        "emotion": "anger"
+    },
+    {
+        "text": "Your carelessness has ruined the entire project. How could you be so irresponsible?",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm furious that you didn't consult me before making that decision.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You were supposed to watch the dog, not let him run away!",
+        "emotion": "anger"
+    },
+    {
+        "text": "I can't believe you forgot to lock the door. Now we've been robbed!",
+        "emotion": "anger"
+    },
+    {
+        "text": "Your constant negativity is bringing everyone down. Stop it!",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm tired of your excuses. Either fix the problem or get out of my way.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You were supposed to pick me up an hour ago. Where have you been?",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm sick of your constant criticism. It's not helpful, it's just annoying.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You were supposed to water the plants, not let them die!",
+        "emotion": "anger"
+    },
+    {
+        "text": "I've had enough of your rude comments. Keep them to yourself.",
+        "emotion": "anger"
+    },
+    {
+        "text": "This is unacceptable! I expected better from you.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You were supposed to fix the leak, not make it worse!",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm tired of your constant excuses. Just get the job done.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You promised to help me move and you didn't show up. I had to do it all alone.",
+        "emotion": "anger"
+    },
+    {
+        "text": "Your reckless driving is putting everyone in danger. Slow down!",
+        "emotion": "anger"
+    },
+    {
+        "text": "I can't believe you forgot my birthday. You never remember anything important!",
+        "emotion": "anger"
+    },
+    {
+        "text": "Your constant interruptions are making it impossible for me to concentrate.",
+        "emotion": "anger"
+    },
+    {
+        "text": "This is the last time I'm covering for you. You need to take responsibility for your actions.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You were supposed to book the tickets, not wait until the last minute!",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm furious that you didn't tell me about the changes until it was too late.",
+        "emotion": "anger"
+    },
+    {
+        "text": "Your lack of effort is disappointing. I expected more from you.",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm tired of your constant complaining. Either do something about it or stop talking.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You were supposed to clean the kitchen, not leave it a mess!",
+        "emotion": "anger"
+    },
+    {
+        "text": "I can't believe you forgot to pick up the kids from school. They were waiting for you!",
+        "emotion": "anger"
+    },
+    {
+        "text": "Your constant interruptions are making it impossible for me to work.",
+        "emotion": "anger"
+    },
+    {
+        "text": "This is unacceptable! I expected the report to be completed by today.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You were supposed to fix the computer, not make it worse!",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm sick and tired of your lies. Just tell the truth for once.",
+        "emotion": "anger"
+    },
+    {
+        "text": "Your carelessness has ruined the entire project. How could you be so irresponsible?",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm furious that you didn't consult me before making that decision.",
+        "emotion": "anger"
+    },
+    {
+        "text": "You were supposed to watch the dog, not let him run away!",
+        "emotion": "anger"
+    },
+    {
+        "text": "I can't believe you forgot to lock the door. Now we've been robbed!",
+        "emotion": "anger"
+    },
+    {
+        "text": "Your constant negativity is bringing everyone down. Stop it!",
+        "emotion": "anger"
+    },
+    {
+        "text": "I'm tired of your excuses. Either fix the problem or get out of my way.",
+        "emotion": "anger"
+    },
+    {
+        "text": "After five years of loyal service, I was laid off via an automated email.",
+        "emotion": "sad"
+    },
+    {
+        "text": "She said she'd always be there... and then she wasn't.",
+        "emotion": "sad"
+    },
+    {
+        "text": "Just found my childhood dog’s old collar. I didn’t expect to cry this much.",
+        "emotion": "sad"
+    },
+    {
+        "text": "My visa got rejected again. I don't even know how much more disappointment I can take.",
+        "emotion": "sad"
+    },
+    {
+        "text": "Watched my favorite band perform their final show tonight. It felt like losing an old friend.",
+        "emotion": "sad"
+    },
+    {
+        "text": "He forgot my birthday. Again.",
+        "emotion": "sad"
+    },
+    {
+        "text": "Moving out of my first apartment today. It's just walls and dust now, but it still feels like home.",
+        "emotion": "sad"
+    },
+    {
+        "text": "Client cancelled the project we spent six months building. I'm crushed.",
+        "emotion": "sad"
+    },
+    {
+        "text": "When your best friend drifts away and you don't even know when it happened...",
+        "emotion": "sad"
+    },
+    {
+        "text": "My grandmother's handwriting is fading on the old letters she sent me. I wish I had visited more.",
+        "emotion": "sad"
+    },
+    {
+        "text": "She got married yesterday. I smiled for the photos, but inside, I broke apart.",
+        "emotion": "sad"
+    },
+    {
+        "text": "Gave it everything I had, but it still wasn't enough.",
+        "emotion": "sad"
+    },
+    {
+        "text": "Logged into our old chat by accident today. So many memories with people I don't even talk to anymore.",
+        "emotion": "sad"
+    },
+    {
+        "text": "My teacher told me I'd never make it, and some days, it feels like she was right.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I miss the version of myself who used to dream without fear.",
+        "emotion": "sad"
+    },
+    {
+        "text": "Got the news that our family store is closing after 42 years. It's the end of an era.",
+        "emotion": "sad"
+    },
+    {
+        "text": "He looked at me like a stranger today, and somehow that hurt worse than if he hated me.",
+        "emotion": "sad"
+    },
+    {
+        "text": "It’s hard watching someone you love slowly stop loving themselves.",
+        "emotion": "sad"
+    },
+    {
+        "text": "Reading back my old journals feels like talking to a ghost who had hope.",
+        "emotion": "sad"
+    },
+    {
+        "text": "Posted a memory on Instagram and realized none of the people tagged are still in my life.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I can't believe I didn't get the job. I really thought I had a chance.",
+        "emotion": "sad"
+    },
+    {
+        "text": "Today marks one year since we lost her, and the house feels so empty.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I missed the deadline and now the project is in jeopardy.",
+        "emotion": "sad"
+    },
+    {
+        "text": "He didn't even say goodbye before he left.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The doctor said there's nothing more they can do. I feel helpless.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I found out today that my favorite childhood park is being torn down.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I spent hours on that presentation, and no one even looked at it.",
+        "emotion": "sad"
+    },
+    {
+        "text": "She promised she'd be there for me, but she wasn't.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The concert was canceled at the last minute. I was so looking forward to it.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I lost my grandmother's necklace. It was the only thing I had left of her.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I didn't make the team this year. All that practice was for nothing.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The bookstore where I used to spend hours is closing down.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I thought we were friends, but she didn't invite me to her party.",
+        "emotion": "sad"
+    },
+    {
+        "text": "My plant died. I tried so hard to keep it alive.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I failed the exam. I studied for weeks, but it wasn't enough.",
+        "emotion": "sad"
+    },
+    {
+        "text": "He said he'd call, but he never did.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The movie ended sadly, and I can't stop thinking about it.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I missed the last bus home and now I'm stranded here.",
+        "emotion": "sad"
+    },
+    {
+        "text": "My favorite café is closing. I'll miss our weekend brunches.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I found out my best friend is moving away.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The painting I loved at the gallery was already sold.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I lost my job today. I don't know what I'm going to do.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The rain washed away our picnic plans.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I didn't get the promotion. I thought I deserved it.",
+        "emotion": "sad"
+    },
+    {
+        "text": "My cat ran away, and I can't find her anywhere.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The vacation I planned for months was canceled due to bad weather.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I lost my favorite book. It had so many memories.",
+        "emotion": "sad"
+    },
+    {
+        "text": "He broke up with me over a text message.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The project I worked on for months was rejected.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I missed the train and now I'll be late for the interview.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I can't believe I lost my phone. All my photos were on it.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The restaurant where we had our first date is closing down.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I didn't get into the college I wanted.",
+        "emotion": "sad"
+    },
+    {
+        "text": "My car broke down on the way to the concert.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I found out my favorite band is disbanding.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I lost the necklace my mom gave me for my birthday.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The cake I baked for hours turned out terrible.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I missed the flight and now I'm stuck at the airport.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I thought we had something special, but she doesn't feel the same way.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The gift I ordered for her birthday won't arrive in time.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I didn't get the scholarship. I really needed the money.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The concert tickets sold out before I could buy them.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I lost my favorite sweater. It was a gift from my grandmother.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The movie I was looking forward to got terrible reviews.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I didn't get the apartment I wanted.",
+        "emotion": "sad"
+    },
+    {
+        "text": "My favorite TV show was canceled.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I found out my best friend lied to me.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The flowers I planted all died.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I didn't get the part in the play. I practiced so hard.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The trip I planned for months was canceled.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I lost my wallet with all my IDs and cards.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The book I was reading ended sadly.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I didn't get the internship I applied for.",
+        "emotion": "sad"
+    },
+    {
+        "text": "My favorite coffee shop is closing down.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I found out my favorite author passed away.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The dress I ordered doesn't fit.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I didn't get the job I interviewed for.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The party was canceled at the last minute.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I lost my favorite ring. It was a gift from my mom.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The movie I was excited about got delayed.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I didn't get the role I auditioned for.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The concert I was looking forward to was canceled.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I found out my favorite restaurant is closing.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I didn't get the scholarship I applied for.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The trip I planned for months was canceled due to bad weather.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I lost my favorite book. It had so many memories.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The cake I baked for hours turned out terrible.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I missed the flight and now I'm stuck at the airport.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I thought we had something special, but she doesn't feel the same way.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The gift I ordered for her birthday won't arrive in time.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I didn't get the scholarship. I really needed the money.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The concert tickets sold out before I could buy them.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I lost my favorite sweater. It was a gift from my grandmother.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The movie I was looking forward to got terrible reviews.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I didn't get the apartment I wanted.",
+        "emotion": "sad"
+    },
+    {
+        "text": "My favorite TV show was canceled.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I found out my best friend lied to me.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The flowers I planted all died.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I didn't get the part in the play. I practiced so hard.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The trip I planned for months was canceled.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I lost my wallet with all my IDs and cards.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The book I was reading ended sadly.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I didn't get the internship I applied for.",
+        "emotion": "sad"
+    },
+    {
+        "text": "My favorite coffee shop is closing down.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I found out my favorite author passed away.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The dress I ordered doesn't fit.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I didn't get the job I interviewed for.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The party was canceled at the last minute.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I lost my favorite ring. It was a gift from my mom.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The movie I was excited about got delayed.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I didn't get the role I auditioned for.",
+        "emotion": "sad"
+    },
+    {
+        "text": "The concert I was looking forward to was canceled.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I found out my favorite restaurant is closing.",
+        "emotion": "sad"
+    },
+    {
+        "text": "I didn't get the scholarship I applied for.",
+        "emotion": "sad"
+    },
+    {
+        "text": "Our servers just crashed and we have no backup. I'm honestly terrified.",
+        "emotion": "fear"
+    },
+    {
+        "text": "Woke up to police sirens outside my house... my heart is still racing.",
+        "emotion": "fear"
+    },
+    {
+        "text": "She hasn’t texted back after saying 'we need to talk'. I can barely breathe.",
+        "emotion": "fear"
+    },
+    {
+        "text": "Felt something move under my bed. I'm too scared to look.",
+        "emotion": "fear"
+    },
+    {
+        "text": "Just saw a shadow in the hallway and I'm home alone. Nope. Nope. Nope.",
+        "emotion": "fear"
+    },
+    {
+        "text": "Our funding is under review... if it gets pulled, the whole team could lose their jobs.",
+        "emotion": "fear"
+    },
+    {
+        "text": "Trying to outrun a storm on the highway and the wind is literally shaking my car.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I think someone’s following me. My stomach dropped.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The test results come out tomorrow. I can barely focus on anything else.",
+        "emotion": "fear"
+    },
+    {
+        "text": "My dog slipped his leash and ran toward the road — I thought I was going to lose him.",
+        "emotion": "fear"
+    },
+    {
+        "text": "That moment when you click 'send' on an email you absolutely should have triple-checked...",
+        "emotion": "fear"
+    },
+    {
+        "text": "We lost sight of the trail an hour ago and now it's getting dark.",
+        "emotion": "fear"
+    },
+    {
+        "text": "Saw a weird notification that someone tried to access my account. I feel sick.",
+        "emotion": "fear"
+    },
+    {
+        "text": "Stepped onto stage and completely forgot my opening line. Full body panic.",
+        "emotion": "fear"
+    },
+    {
+        "text": "When the plane suddenly dropped in turbulence, I honestly thought we were going down.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I heard screaming from the alley next to my building. I locked all my doors immediately.",
+        "emotion": "fear"
+    },
+    {
+        "text": "Every time the phone rings after midnight, my heart skips a beat.",
+        "emotion": "fear"
+    },
+    {
+        "text": "Got an unexpected call from my boss titled 'urgent'. I'm shaking.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The ultrasound technician went quiet for too long. I knew something was wrong.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I thought I lost my little sister at the mall today. Worst ten minutes of my life.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I heard footsteps behind me in the dark alley. I'm terrified to turn around.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The doctor called with my test results. I'm scared it might be bad news.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to give a speech in front of hundreds of people tomorrow. I'm so nervous.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I think I saw someone lurking outside my window. I'm too afraid to check.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The storm is getting worse, and the power just went out. I'm really frightened.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have a big job interview tomorrow. I'm worried I won't perform well.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I heard a strange noise coming from the attic. I'm too scared to investigate.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The deadline is approaching, and I'm nowhere near finished. I'm terrified I'll fail.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I think I'm being followed. I'm too afraid to look back.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The roller coaster looks terrifying. I'm not sure I can go through with it.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to confront my boss about a mistake I made. I'm really nervous.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I saw a spider in my room. I'm too scared to go back in.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The plane is experiencing heavy turbulence. I'm really frightened.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to sing in front of a large audience. I'm terrified of messing up.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I think I left the stove on. I'm scared the house might catch fire.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The doctor said I need more tests. I'm worried about what they might find.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to cross a narrow bridge. I'm terrified of heights.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I heard whispers in the dark. I'm too afraid to move.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The project is due tomorrow, and I haven't even started. I'm really scared.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I think someone is watching me. I'm too afraid to look around.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to give a presentation to the board of directors. I'm really nervous.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I saw a shadow move in the corner of my eye. I'm too scared to turn around.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The car is making a strange noise. I'm worried it might break down.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to take a final exam tomorrow. I'm terrified I'll fail.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I think I'm lost in the woods. I'm really frightened.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The elevator is stuck between floors. I'm scared of the dark.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to perform a difficult surgery tomorrow. I'm really nervous.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I heard a loud bang outside. I'm too afraid to check what it was.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The market is crashing, and I'm scared of losing everything.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to jump into the deep end of the pool. I'm terrified of drowning.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I think someone is trying to break into my house. I'm really frightened.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The client is unhappy with our work. I'm worried we might lose the account.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to drive through a heavy storm. I'm scared of hydroplaning.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I think I'm being stalked. I'm too afraid to go out alone.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The doctor said I need surgery. I'm terrified of going under the knife.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to speak at a conference in front of thousands of people. I'm really nervous.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I saw a snake in my backyard. I'm too scared to go outside.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The boat is taking on water. I'm really frightened.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to confront my partner about something serious. I'm really nervous.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I think I'm having an allergic reaction. I'm scared it might be serious.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The house is creaking in the wind. I'm too afraid to sleep.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to climb a tall ladder. I'm terrified of falling.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I think someone is following me home. I'm really frightened.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The doctor said I need to see a specialist. I'm worried about what it means.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to give a eulogy at a funeral. I'm really nervous.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I saw a rat in my kitchen. I'm too scared to go back in.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The plane is delayed, and I'm scared I'll miss my connecting flight.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to walk home alone in the dark. I'm really frightened.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I think I'm being hacked. I'm scared of losing all my data.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The doctor said I need to change my lifestyle. I'm worried I can't do it.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to give a toast at a wedding. I'm terrified of public speaking.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I saw a ghostly figure in the mirror. I'm too afraid to look again.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The car won't start, and I'm scared I'll be late for work.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to cross a busy intersection. I'm terrified of getting hit.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I think I'm being scammed. I'm really frightened.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The doctor said I need to take medication. I'm worried about the side effects.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to give a demo in front of important clients. I'm really nervous.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I heard strange noises in the basement. I'm too afraid to check.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The storm is getting worse, and I'm scared the power might go out.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to confront my neighbor about their loud music. I'm really nervous.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I think I'm being followed on social media. I'm really frightened.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The doctor said I need to see a therapist. I'm worried about what they'll find.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to give a presentation to my class. I'm terrified of messing up.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I saw a cockroach in my bedroom. I'm too scared to sleep there.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The plane is experiencing turbulence. I'm really frightened.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to drive through a dangerous neighborhood. I'm scared of getting robbed.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I think I'm being watched through my webcam. I'm really frightened.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The doctor said I need to have a biopsy. I'm worried about the results.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to give a speech at a conference. I'm really nervous.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I heard a loud crash downstairs. I'm too afraid to check what it was.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The storm is getting worse, and I'm scared of flooding.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to confront my friend about something they did. I'm really nervous.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I think I'm being stalked online. I'm really frightened.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The doctor said I need to have an MRI. I'm worried about what they'll find.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to give a presentation to the CEO. I'm terrified of messing up.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I saw a bat in my attic. I'm too scared to go up there.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The plane is delayed, and I'm scared I'll miss an important meeting.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to walk through a dark park. I'm really frightened.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I think I'm being followed by a stranger. I'm scared for my safety.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The doctor said I need to have surgery. I'm terrified of the risks.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to give a speech at a wedding. I'm really nervous.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I heard footsteps outside my window. I'm too afraid to look.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The storm is getting worse, and I'm scared of a power outage.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to confront my boss about a raise. I'm really nervous.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I think I'm being hacked again. I'm really frightened.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The doctor said I need to have a colonoscopy. I'm worried about the procedure.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to give a presentation to a large audience. I'm terrified of public speaking.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I saw a mouse in my kitchen. I'm too scared to go back in.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The plane is experiencing heavy turbulence again. I'm really frightened.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to drive through a storm. I'm scared of the roads being slippery.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I think I'm being watched. I'm really frightened.",
+        "emotion": "fear"
+    },
+    {
+        "text": "The doctor said I need to have a stress test. I'm worried about the results.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I have to give a speech at a funeral. I'm really nervous.",
+        "emotion": "fear"
+    },
+    {
+        "text": "I got the job! All the hard work finally paid off.",
+        "emotion": "joy"
+    },
+    {
+        "text": "We're having a baby! I can't believe we're going to be parents.",
+        "emotion": "joy"
+    },
+    {
+        "text": "I aced my final exams. I'm so relieved and happy!",
+        "emotion": "joy"
+    },
+    {
+        "text": "She said yes! We're getting married!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just got a call from the publisher—my book is getting published!",
+        "emotion": "joy"
+    },
+    {
+        "text": "We won the championship! All that practice was worth it.",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got accepted into my dream college. I'm over the moon!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I found the perfect dress for the wedding, and it was on sale!",
+        "emotion": "joy"
+    },
+    {
+        "text": "We closed the deal today. The client was thrilled with our proposal.",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just adopted the cutest puppy from the shelter. I'm so happy!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a promotion and a raise! Hard work really does pay off.",
+        "emotion": "joy"
+    },
+    {
+        "text": "I finally finished my first marathon. I feel incredible!",
+        "emotion": "joy"
+    },
+    {
+        "text": "We're buying our first house! I can't wait to move in.",
+        "emotion": "joy"
+    },
+    {
+        "text": "I won the lottery! I still can't believe it.",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got the part in the play. I'm so excited to perform!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just booked a dream vacation to Hawaii. I can't wait!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a full scholarship to my top-choice university!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I finally mastered that difficult recipe. It tastes amazing!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got tickets to see my favorite band live!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just got engaged to the love of my life. I'm so happy!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I finished my first novel. I feel so accomplished!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got the all-clear from the doctor. I'm cancer-free!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just adopted a kitten. She's the cutest thing ever!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I won first place in the art competition. I'm so proud!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a standing ovation for my performance. It was incredible!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just bought my dream car. I can't wait to drive it!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got the highest score in the class. All that studying paid off!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I finally learned to ride a bike. I feel so free!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a surprise visit from my best friend. I'm so happy to see her!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just completed my first solo hike. The view was breathtaking!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a job offer from my dream company. I'm so excited!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I finally finished decorating my new apartment. It looks amazing!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got to meet my favorite author today. I'm still starstruck!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just ran my fastest 5k ever. I feel unstoppable!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a surprise birthday party. I'm so touched!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I finally learned to swim. I feel so accomplished!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a perfect score on my driving test. I'm so relieved!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just finished my first painting. I love how it turned out!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got to see the northern lights for the first time. It was magical!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just adopted a rescue dog. He's the sweetest!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got the lead role in the school play. I'm so excited!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just booked a trip to Paris. I can't wait to explore!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a surprise delivery of flowers from my partner. I'm so happy!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I finally finished my PhD. I feel so proud!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got to see my favorite band live. It was amazing!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just completed my first triathlon. I feel invincible!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a surprise visit from my family. I'm so happy to see them!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I finally learned to play the guitar. I feel so accomplished!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a job offer from my dream company. I'm so excited!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just finished my first novel. I feel so proud!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got the all-clear from the doctor. I'm so relieved!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just adopted a puppy. He's the cutest thing ever!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I won first place in the science fair. I'm so proud!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a standing ovation for my speech. It was incredible!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just bought my dream house. I can't wait to move in!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got the highest score in the competition. All that practice paid off!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I finally learned to ride a horse. I feel so free!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a surprise visit from my grandparents. I'm so happy to see them!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just completed my first solo camping trip. It was amazing!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a job offer from my dream company. I'm so excited!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I finally finished decorating my new home. It looks amazing!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got to meet my favorite actor today. I'm still starstruck!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just ran my fastest marathon ever. I feel unstoppable!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a surprise anniversary party. I'm so touched!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I finally learned to dance. I feel so accomplished!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a perfect score on my final exam. I'm so relieved!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just finished my first sculpture. I love how it turned out!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got to see the sunrise from the top of a mountain. It was magical!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just adopted a rescue cat. She's the sweetest!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got the lead role in the community theater play. I'm so excited!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just booked a trip to Japan. I can't wait to explore!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a surprise delivery of chocolates from my partner. I'm so happy!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I finally finished my master's degree. I feel so proud!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got to see my favorite musician live. It was amazing!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just completed my first Ironman. I feel invincible!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a surprise visit from my childhood friends. I'm so happy to see them!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I finally learned to speak French. I feel so accomplished!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a job offer from my dream company. I'm so excited!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just finished my first screenplay. I feel so proud!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got the all-clear from the doctor. I'm so relieved!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just adopted a bunny. He's the cutest thing ever!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I won first place in the photography contest. I'm so proud!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a standing ovation for my piano performance. It was incredible!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just bought my dream apartment. I can't wait to move in!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got the highest score in the math competition. All that studying paid off!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I finally learned to surf. I feel so free!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a surprise visit from my cousins. I'm so happy to see them!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just completed my first solo road trip. It was amazing!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a job offer from my dream company. I'm so excited!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I finally finished renovating my kitchen. It looks amazing!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got to meet my favorite athlete today. I'm still starstruck!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just ran my fastest 10k ever. I feel unstoppable!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a surprise engagement party. I'm so touched!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I finally learned to cook. I feel so accomplished!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got a perfect score on my certification exam. I'm so relieved!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just finished my first mural. I love how it turned out!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got to see the fireworks from the top of a skyscraper. It was magical!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just adopted a parrot. He's the sweetest!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I got the lead role in the musical. I'm so excited!",
+        "emotion": "joy"
+    },
+    {
+        "text": "I just booked a trip to Italy. I can't wait to explore!",
+        "emotion": "joy"
+    },
+    {
+        "text": "We are thrilled to announce that our team has successfully secured the grant for next year’s project!",
+        "emotion": "joy"
+    },
+    {
+        "text": "She said YES!!! 💍 I can't stop smiling!!!",
+        "emotion": "joy"
+    },
+    {
+        "text": "Finally landed my dream job today. I’m over the moon!",
+        "emotion": "joy"
+    },
+    {
+        "text": "Omg just randomly met my favorite actor at a coffee shop!!! Best day EVER!!!",
+        "emotion": "joy"
+    },
+    {
+        "text": "My kid took their first steps today... nothing prepares you for that kind of happiness.",
+        "emotion": "joy"
+    },
+    {
+        "text": "Graduated top of my class! Hard work pays off!",
+        "emotion": "joy"
+    },
+    {
+        "text": "After months of trying, I finally nailed that song on the piano. Felt like flying.",
+        "emotion": "joy"
+    },
+    {
+        "text": "Our product launch exceeded all expectations. Extremely proud of the team!",
+        "emotion": "joy"
+    },
+    {
+        "text": "Got back from the doctor's — officially cancer-free. I cried in the parking lot, but this time from pure joy.",
+        "emotion": "joy"
+    },
+    {
+        "text": "Bro just hit a half-court shot at the buzzer. Legendary moment 🔥🏀",
+        "emotion": "joy"
+    },
+    {
+        "text": "Adopted the sweetest dog today. She's already snoring next to me. 🐶❤️",
+        "emotion": "joy"
+    },
+    {
+        "text": "Watching the sunrise with my best friends after a night of laughing and memories. Life is beautiful.",
+        "emotion": "joy"
+    },
+    {
+        "text": "My little brother just got into his dream university!! So freaking proud!!!",
+        "emotion": "joy"
+    },
+    {
+        "text": "First time seeing snow in real life!! It's even more magical than I imagined!",
+        "emotion": "joy"
+    },
+    {
+        "text": "Heard my song on the radio today. Couldn't stop dancing in my car.",
+        "emotion": "joy"
+    },
+    {
+        "text": "That feeling when you find money in your old jacket pocket 🙌",
+        "emotion": "joy"
+    },
+    {
+        "text": "Got my first book published today! Holding it in my hands doesn't even feel real.",
+        "emotion": "joy"
+    },
+    {
+        "text": "Today I realized — I'm genuinely happy with my life. No big event, just peace. And it’s the best feeling.",
+        "emotion": "joy"
+    },
+    {
+        "text": "Our baby said her first word today... and it was 'Mama' 😭❤️",
+        "emotion": "joy"
+    },
+    {
+        "text": "Built my first gaming PC and it actually turned on the first try!! LET’S GOOOO 🔥",
+        "emotion": "joy"
+    },
+    {
+        "text": "Just checked my email — I got the scholarship! I still can't believe it!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "Walked into my apartment and my friends threw me a surprise birthday party. Totally speechless!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "My old high school teacher randomly showed up at my art exhibit today. Wild!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "Opened my paycheck and saw an unexpected bonus. WHAT?!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "Bro just proposed to his girlfriend at the concert in front of everyone 😭💍",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I got promoted?? I thought they forgot about me!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "We thought it was a regular meeting... then the CEO walked in!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "Scrolled through Airbnb and saw our tiny town featured on the front page. Didn't expect that!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe it — my video just hit a million views overnight!!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "Was cleaning out the attic and found letters from my great-grandparents dating back to WWII.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "Logged into the conference thinking I was just attending — turned out I was a guest speaker!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "This restaurant gave us free dessert just because it was our anniversary 🥹",
+        "emotion": "surprise"
+    },
+    {
+        "text": "Randomly checked my lottery ticket... and actually won a little money??",
+        "emotion": "surprise"
+    },
+    {
+        "text": "My shy coworker just absolutely crushed the presentation. Didn't see that coming at all.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "Our baby said her first full sentence today! I wasn't ready 😭❤️",
+        "emotion": "surprise"
+    },
+    {
+        "text": "We showed up at the museum and found out tickets were free today!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "Just realized my tiny side project has people from 15 countries using it. Mind = blown.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "Found out my quiet neighbor used to be a famous jazz musician. You never really know people!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "Thought it was going to rain all day... and ended up with a gorgeous sunset picnic instead.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "Accidentally bumped into an old best friend at the airport after 10 years apart!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I won the lottery! I never thought I'd be this lucky.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're getting married? I had no idea you were even dating someone!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just found out I'm being promoted to manager. I'm in shock!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "Wow, you dyed your hair pink! It looks amazing.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe she's pregnant. She never mentioned a thing!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're moving to Paris? That's incredible news!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just got an email saying I won a free trip to Hawaii. I'm speechless!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You baked this cake yourself? It tastes like it's from a professional bakery!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I aced that exam. I thought I failed for sure.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're quitting your job to travel the world? That's a bold move!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just found out my favorite band is coming to town. I have to get tickets!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're engaged? Congratulations! I didn't even know you were seeing someone.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I got accepted into my dream university. I'm over the moon!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're starting your own business? That's amazing news!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just found out I'm getting a bonus this year. I wasn't expecting that at all!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're having twins? That's incredible!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I won the contest. I didn't think I had a chance.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're moving to New York? That's a big change!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just got a call from an old friend I haven't seen in years. It was so unexpected!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're adopting a baby? That's wonderful news!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I got the job. I thought the interview went terribly.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're writing a book? That's impressive!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just found out my favorite author is coming to town. I have to meet them!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're getting a divorce? I had no idea things were that bad.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I won the raffle. I never win anything!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're running a marathon? That's incredible!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just got a surprise visit from my best friend. I'm so happy to see her!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're learning to fly a plane? That's amazing!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I got a perfect score on my test. I must have gotten lucky.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're opening a restaurant? That's a big venture!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just found out I'm getting a raise. I wasn't expecting that at all!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're having a baby? Congratulations! I didn't know you were trying.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I won the art competition. I didn't think my painting was that good.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're moving to Australia? That's a huge change!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just got a surprise delivery of flowers. I wonder who sent them.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're learning to speak Japanese? That's impressive!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I got the lead role in the play. I thought I'd be in the chorus.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're buying a house? That's a big step!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just found out my favorite TV show is getting another season. I'm so excited!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're getting married next month? That's so soon!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I won the photography contest. I didn't think my photos were that good.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're moving to Canada? That's a big change!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just got a surprise visit from my parents. I wasn't expecting them until next week.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're learning to play the violin? That's amazing!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I got an A on my project. I thought I'd barely pass.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're opening a bakery? That's a big venture!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just found out I'm getting a company car. I wasn't expecting that at all!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're having triplets? That's incredible!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I won the dance competition. I didn't think I had a chance.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're moving to Germany? That's a huge change!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just got a surprise delivery of chocolates. I wonder who sent them.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're learning to scuba dive? That's amazing!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I got the highest score in the class. I must have gotten lucky.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're opening a coffee shop? That's a big venture!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just found out I'm getting a new office. I wasn't expecting that at all!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're having a baby girl? Congratulations! I thought it was going to be a boy.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I won the science fair. I didn't think my project was that good.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're moving to Spain? That's a big change!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just got a surprise visit from my sister. I wasn't expecting her until next month.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're learning to fly a helicopter? That's impressive!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I got a perfect score on my presentation. I thought I'd mess it up.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're opening a bookstore? That's a big venture!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just found out I'm getting a bonus this month. I wasn't expecting that at all!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're having twins again? That's incredible!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I won the cooking contest. I didn't think my dish was that good.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're moving to Italy? That's a huge change!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just got a surprise delivery of cupcakes. I wonder who sent them.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're learning to ride a motorcycle? That's amazing!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I got an A+ on my essay. I thought I'd get a B at best.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're opening a boutique? That's a big venture!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just found out I'm getting a new laptop from work. I wasn't expecting that at all!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're having a baby boy? Congratulations! I thought it was going to be a girl.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I won the debate competition. I didn't think I had a chance.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're moving to Japan? That's a big change!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just got a surprise visit from my brother. I wasn't expecting him until next week.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're learning to sail? That's impressive!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I got the highest grade in the exam. I must have gotten lucky.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're opening a gallery? That's a big venture!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just found out I'm getting a new phone. I wasn't expecting that at all!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're having triplets again? That's incredible!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I won the poetry contest. I didn't think my poem was that good.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're moving to Switzerland? That's a huge change!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just got a surprise delivery of cookies. I wonder who sent them.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're learning to rock climb? That's amazing!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I got a perfect score on my math test. I thought I'd fail.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're opening a fitness studio? That's a big venture!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just found out I'm getting a new car from work. I wasn't expecting that at all!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're having a baby? Congratulations! I didn't know you were trying.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I won the chess tournament. I didn't think I had a chance.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're moving to Sweden? That's a big change!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just got a surprise visit from my cousin. I wasn't expecting her until next month.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're learning to surf? That's impressive!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I can't believe I got the highest score in the competition. I must have gotten lucky.",
+        "emotion": "surprise"
+    },
+    {
+        "text": "You're opening a yoga studio? That's a big venture!",
+        "emotion": "surprise"
+    },
+    {
+        "text": "I just found out I'm getting a new laptop. I wasn't expecting that at all!",
+        "emotion": "surprise"
+    }
+]

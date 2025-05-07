@@ -1,0 +1,39 @@
+
+---
+
+**`.gitignore` file:**
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Environments
+env/
+venv/
+*.env
+*.venv
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Model files
+checkpoints/
+
+# HF cache
+~/.cache/huggingface/
+
+# Dataset cache
+~/.datasets_cache/
+
+
+
+.idea/
